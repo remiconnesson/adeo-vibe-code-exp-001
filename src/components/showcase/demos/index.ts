@@ -37,6 +37,7 @@ import PincodeInput from "./pincode-input";
 import QuantitySelector from "./quantity-selector";
 import FileUploader from "./file-uploader";
 import Datepicker from "./datepicker";
+import PeriodPicker from "./period-picker";
 import StarRating from "./star-rating";
 import SegmentedControl from "./segmented-control";
 import ControlsOptions from "./controls-options";
@@ -109,6 +110,7 @@ export const DEMOS: Record<string, DemoEntry> = {
   "quantity-selector": { Demo: QuantitySelector },
   "file-uploader": { Demo: FileUploader },
   datepicker: { Demo: Datepicker },
+  "period-picker": { Demo: PeriodPicker },
   "star-rating": { Demo: StarRating },
   "segmented-control": { Demo: SegmentedControl },
   "controls-options": { Demo: ControlsOptions },

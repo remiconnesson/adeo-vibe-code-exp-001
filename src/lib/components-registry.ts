@@ -25,6 +25,7 @@ export const COMPONENTS: ComponentMeta[] = [
   { slug: "quantity-selector", name: "Quantity Selector", category: "Form", description: "Numeric stepper for ordering quantities." },
   { slug: "file-uploader", name: "File Uploader", category: "Form", description: "File picker with drag-and-drop, file list, and progress feedback." },
   { slug: "datepicker", name: "Datepicker", category: "Form", description: "Date selection input with calendar picker." },
+  { slug: "period-picker", name: "Period Picker", category: "Form", description: "Date range picker with calendar grid and preset periods. Select start and end dates in one widget." },
   { slug: "star-rating", name: "Star Rating", category: "Form", description: "Star-based rating input (1–5)." },
   { slug: "segmented-control", name: "Segmented Control", category: "Form", description: "Horizontal group of mutually exclusive buttons." },
   { slug: "controls-options", name: "Controls Options", category: "Form", description: "Group of selectable option cards/buttons." },
